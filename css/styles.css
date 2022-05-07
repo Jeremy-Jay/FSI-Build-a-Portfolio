@@ -1,0 +1,16 @@
+
+img{
+    border-radius: 1500px;
+    width: 250px;
+    height: 250px;
+}
+h3{
+    font-weight: bolder;
+    border-color: brown;
+}
+html{
+    background-color: #fefefe;
+    background-image: linear-gradient(315deg, #fefefe 0%, #00a4e4 74%);
+    text-align: center;
+    list-style-position: inside;
+}
